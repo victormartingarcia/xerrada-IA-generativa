@@ -19,11 +19,13 @@ Instruccions per executar-ho en l'entorn local:
 
 ## Demo - Text-to-Image - StableDiffusion
 
+* [Codi per carregar al collab]("ControlNet fast_stable_diffusion_AUTOMATIC1111.ipynb")
+
 * Dreambooth
-  * [Codi per carregar al collab](https://github.com/TheLastBen/fast-stable-diffusion)
+  * [Repositori a Github](https://github.com/TheLastBen/fast-stable-diffusion)
   * [Manual pas a pas per entrenar amb les teves fotos](https://github.com/Excalibro1/fast-stable-diffusionwik/wiki/fast-stable-diffusion-wiki)
 * ControlNet
-  * [Codi per carregar al colab](https://github.com/camenduru/controlnet-colab)
+  * [Repositori a Github](https://github.com/camenduru/controlnet-colab)
   * [Manual per controlar stablediffusion](https://stable-diffusion-art.com/controlnet/)
 
 ## Enllaços d'interès
