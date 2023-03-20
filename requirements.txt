@@ -1,0 +1,7 @@
+openai==0.27.0
+jupyter==1.0.0
+python-dotenv==0.21.1
+chromadb==0.3.10
+google-api-python-client
+faiss-cpu==1.7.3
+git+https://github.com/hwchase17/langchain.git@v0.0.116
