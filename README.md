@@ -5,7 +5,7 @@ Xerrada sobre IA Generativa - ChatGPT | StableDiffusion
 
 ## Presentació
 
-* PDF amb els slides de la xerrada: [WIP]()
+* PDF amb els slides de la xerrada: [slides_ia_generativa_tecnoateneu.pdf](slides_ia_generativa_tecnoateneu.pdf)
 
 ## Demo - Text-to-Text - ChatGPT
 
@@ -19,7 +19,7 @@ Instruccions per executar-ho en l'entorn local:
 
 ## Demo - Text-to-Image - StableDiffusion
 
-* [Codi per carregar al collab]("ControlNet fast_stable_diffusion_AUTOMATIC1111.ipynb")
+* [Codi per carregar al collab](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb#scrollTo=PEgQywdJJK8L )
 
 * Dreambooth
   * [Repositori a Github](https://github.com/TheLastBen/fast-stable-diffusion)
